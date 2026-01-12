@@ -12,39 +12,45 @@
   </a>
 </p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sameer1551&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak"/>
-</div>
-
 ---
 
 ## 🚀 About Me
 
-```javascript
-const siddhesh = {
-    location: "Port Blair, Andaman & Nicobar Islands 🏝️",
-    education: {
-        masters: "AI & Machine Learning @ Parul University (Pursuing)",
-        bachelors: "BCA @ Amity University (Completed)",
-        certification: "AI/ML @ IIT Guwahati (Pursuing)"
-    },
-    currentFocus: ["Real-Time AI Systems", "Computer Vision", "IoT Solutions"],
-    funFact: "I led a team to build a two-stage rocket at age 10! 🚀"
-};
-```
+<table>
+  <tr>
+    <td width="50%">
+      <h3>👨‍💻 Who Am I?</h3>
+      <ul>
+        <li>🎓 <b>Masters in AI/ML</b> at Parul University</li>
+        <li>📚 <b>AI/ML Program</b> at IIT Guwahati (Pursuing)</li>
+        <li>🎯 <b>BCA Graduate</b> from Amity University</li>
+        <li>📍 Based in Port Blair, Andaman & Nicobar Islands 🏝️</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>🌟 What I Do?</h3>
+      <ul>
+        <li>🤖 Build <b>AI/ML</b> & Computer Vision Systems</li>
+        <li>🌐 Create <b>Full-Stack</b> Web Applications</li>
+        <li>📟 Develop <b>IoT</b> & Embedded Solutions</li>
+        <li>🏆 Lead teams in <b>Hackathons</b></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+> 💡 **Fun Fact:** I led a team to build a two-stage rocket when I was just getting started! 🚀
 
 ---
 
 ## 🏆 Hackathon Leadership
 
-<table align="center">
-  <tr>
-    <td align="center"><b>🎯 SIH</b><br/>Team Lead</td>
-    <td align="center"><b>🎯 Vadodara</b><br/>Team Lead</td>
-    <td align="center"><b>🎯 PU Code</b><br/>Team Lead</td>
-    <td align="center"><b>🎯 Masai IITG</b><br/>Team Lead</td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/🎯_SIH-Team_Lead-6C63FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🎯_Vadodara-Team_Lead-6C63FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🎯_PU_Code-Team_Lead-6C63FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🎯_Masai_IITG-Team_Lead-6C63FF?style=for-the-badge"/>
+</p>
 
 ---
 
@@ -55,7 +61,12 @@ const siddhesh = {
   <img src="https://skillicons.dev/icons?i=tensorflow,opencv,arduino,bootstrap,git,github,docker,vscode,figma" />
 </p>
 
+<details>
+<summary>📋 <b>Click to see detailed skills</b></summary>
+<br/>
+
 ### 🤖 AI & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
@@ -65,6 +76,7 @@ const siddhesh = {
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
 ### 📊 Data Science
@@ -76,70 +88,73 @@ const siddhesh = {
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/Sameer1551/medical_chatbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sameer1551&repo=medical_chatbot&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/Sameer1551/MultiDevTool-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sameer1551&repo=MultiDevTool-&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Sameer1551/python-Maze">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sameer1551&repo=python-Maze&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/Sameer1551/developing-base">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sameer1551&repo=developing-base&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-</div>
+</details>
 
 ---
 
 ## 🚀 Key Projects I've Built
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🎭 **Face Expression Recognition** | Real-time emotion detection with webcam | Python, MediaPipe, OpenCV |
-| 🤖 **AI Interview Assistant** | Desktop app for interview preparation | Python, AI/ML |
-| 💊 **Medical Chatbot** | Healthcare AI for medical queries | TypeScript, NLP |
-| 🏫 **IoT Air Quality Mapper** | Smart monitoring (3 variants) | Arduino, Sensors |
-| 🐦 **Bird Deterrent Systems** | Automated wildlife management | Arduino, IoT |
-| 🔀 **OXC Routing Optimizer** | High-performance network routing | Java, C++ |
+| Project | Description | Tech Stack |
+|:--------|:------------|:-----------|
+| 🎭 **Face Expression Recognition** | Real-time emotion detection using webcam with high accuracy | `Python` `MediaPipe` `OpenCV` |
+| 🤖 **AI Interview Assistant** | Desktop application for AI-powered interview preparation | `Python` `AI/ML` `Desktop UI` |
+| 💊 **Medical Chatbot** | Healthcare AI chatbot for medical queries | `TypeScript` `NLP` `API` |
+| 🏫 **IoT Air Quality Mapper** | Smart monitoring system (3 variants: School, Street, Zone) | `Arduino` `Sensors` `IoT` |
+| 🐦 **Bird Deterrent Systems** | Automated wildlife management with 3 variants | `Arduino` `Motion Sensors` |
+| 🔀 **OXC Routing Optimizer** | High-performance network routing achieving 78,000+ score | `Java` `C++` `Algorithms` |
+| 🧩 **Python Maze Solver** | Algorithmic maze generation and pathfinding | `Python` `Algorithms` |
+| 🛠️ **MultiDevTool** | All-in-one developer productivity toolkit | `TypeScript` `Web Dev` |
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sameer1551&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer1551&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF" height="180"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sameer1551&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer1551&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sameer1551&theme=tokyonight" width="100%"/>
+</p>
 
 ---
 
 ## 📜 Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python%20for%20Data%20Science-Infosys-00A3E0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-Infosys-00A3E0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Power%20BI-Infosys-00A3E0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Java%20Programming-Infosys-00A3E0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot%20%26%20DevOps-Infosys-00A3E0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/✅_Python_for_Data_Science-Infosys-00A3E0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/✅_Machine_Learning-Infosys-00A3E0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/✅_Power_BI-Infosys-00A3E0?style=for-the-badge"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/✅_Java_Programming-Infosys-00A3E0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/✅_Spring_Boot_&_DevOps-Infosys-00A3E0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/✅_Web_Development-Infosys-00A3E0?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🎯 What I'm Currently Working On
+## 🎯 Currently Working On
 
-- 🔬 Advancing my **AI/ML skills** at IIT Guwahati & Parul University
-- 🎭 Building **Real-Time Face Expression Recognition** systems
-- 🌐 Creating intelligent **IoT solutions** for real-world problems
-- 🏆 Leading teams in **hackathons** and competitive programming
+<table>
+  <tr>
+    <td>🔬</td>
+    <td>Advancing my <b>AI/ML skills</b> at IIT Guwahati & Parul University</td>
+  </tr>
+  <tr>
+    <td>🎭</td>
+    <td>Building <b>Real-Time Face Expression Recognition</b> systems</td>
+  </tr>
+  <tr>
+    <td>🌐</td>
+    <td>Creating intelligent <b>IoT solutions</b> for real-world problems</td>
+  </tr>
+  <tr>
+    <td>🏆</td>
+    <td>Leading teams in <b>hackathons</b> and competitive programming</td>
+  </tr>
+</table>
 
 ---
 
@@ -147,10 +162,10 @@ const siddhesh = {
 
 <p align="center">
   <a href="https://linkedin.com/in/siddhesh-vikram-0bb4541bb/">
-    <img src="https://img.shields.io/badge/-Siddhesh%20Vikram-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Siddhesh_Vikram-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/Sameer1551">
-    <img src="https://img.shields.io/badge/-Sameer1551-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Sameer1551-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
