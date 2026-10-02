@@ -22,7 +22,7 @@
       <h2>👨‍💻 Neural Network of My Life</h2>
       <ul>
         <li>🎓 <b>Masters in AI/ML</b> @ <a href="#">Parul University</a></li>
-        <li>📚 <b>Specialized AI Program</b> @ <a href="#">IIT Guwahati</a> (Pursuing)</li>
+        <li>📚 <b>Specialized AI Program</b> @ <a href="#">IIT Guwahati)</li>
         <li>📍 <b>Base Model Location:</b> Port Blair, Andaman & Nicobar 🏝️</li>
         <li>🔭 <b>Focus:</b> Computer Vision, Edge AI, & IoT Integration</li>
         <li>🚀 <b>Fun Fact:</b> I led a team to build a two-stage rocket!</li>
